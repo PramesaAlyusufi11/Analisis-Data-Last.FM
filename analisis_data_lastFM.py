@@ -530,6 +530,6 @@ if __name__ == "__main__":
     rf, imp, acc  = random_forest_klasifikasi(df, le)
 
     print("\n" + "="*60)
-    print("SELESAI! Semua visualisasi tersimpan di folder : ", IMG_DIR)
+    print("Visualisasi Selesai dan tersimpan di folder : ", IMG_DIR)
     print("File CSV tersimpan di :", OUTPUT_CSV)
     print("="*60)
