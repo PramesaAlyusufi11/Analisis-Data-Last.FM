@@ -431,4 +431,4 @@ if __name__ == "__main__":
     print(f" SELESAI!")
     print(f" CSV Raw : {OUTPUT_RAW}")
     print(f" CSV Rekayasa Fitur : {OUTPUT_FE}")
-    print(f" Visualisasi : {IMG_DIR}/")
+    print(f" Visualisasi : {IMG_DIR}")
